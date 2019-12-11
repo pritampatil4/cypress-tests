@@ -1,2 +1,2 @@
 # cypress-tests
-Getting started with writing front-end automations tests using Cypress.
+Getting started with writing front-end automation tests using Cypress.
