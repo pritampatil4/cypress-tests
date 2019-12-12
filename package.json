@@ -1,0 +1,27 @@
+{
+  "name": "cypress-tests",
+  "version": "1.0.0",
+  "description": "simple front-end automation tests using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress":"cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritampatil4/cypress-tests.git"
+  },
+  "keywords": [
+    "front-end automation testing with cypress",
+    "e-2-e testing"
+  ],
+  "author": "Pritam Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pritampatil4/cypress-tests/issues"
+  },
+  "homepage": "https://github.com/pritampatil4/cypress-tests#readme",
+  "devDependencies": {
+    "cypress": "^3.7.0"
+  }
+}
