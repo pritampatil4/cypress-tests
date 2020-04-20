@@ -1,5 +1,5 @@
 describe('Checks Opencodez Home Page', ()=>{
-    it('Opens the page', ()=>{
+    it('Opens the page', ()=> {
         cy.visit('https://www.opencodez.com')
     });
 
