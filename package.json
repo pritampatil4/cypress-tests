@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/pritampatil4/cypress-tests#readme",
   "devDependencies": {
-    "cypress": "^3.7.0"
+    "cypress": "^10.6.0"
   }
 }
